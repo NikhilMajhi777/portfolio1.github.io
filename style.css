@@ -586,7 +586,16 @@ footer ul li {
 :root {
     --pg-margin: 24px;
 }
-
+@media only screen and (min-width: 400px){
+    body{
+        width: 800px;
+    }
+}
+@media only screen and (min-width: 300px){
+    body{
+        width: 840px;
+    }
+}
 @media only screen and (max-width: 600px) {
     section.hero {
         aspect-ratio: 1/1;
