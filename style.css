@@ -361,7 +361,7 @@ footer {
 section.hero {
     /*    width: 100%;*/
     height: auto;
-    background: #2B2B2B url('/public/image/undraw_Developer_activity_re_39tg-removebg-preview.png') no-repeat center right;
+    background: #2B2B2B url('public/image/undraw_Developer_activity_re_39tg-removebg-preview.png') no-repeat center right;
     background-size: contain;
     display: flex;
     flex-direction: column;
